@@ -1,0 +1,13 @@
+body{
+    width: 80%;
+    height: 80%;
+    background: rgb(4,4,4);
+background: linear-gradient(6deg, rgba(4,4,4,1) 62%, rgba(255,255,255,1) 100%);
+    text-align: center;
+    margin: 10%;
+    font-style: oblique;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:aliceblue;
+    font-weight: bold;
+}
